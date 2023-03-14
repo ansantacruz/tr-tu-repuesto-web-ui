@@ -35,6 +35,7 @@ https://code.visualstudio.com/download
 • plataforma cordova iónica agregar ios
 6. Comandos obligatorios
 • npm reconstruir nodo-sass
-  Para obtener más información, vaya a
-https://ionicframework.com/docs
+  
+  
+Para obtener más información, vaya a https://ionicframework.com/docs
 
