@@ -25,6 +25,8 @@ Las siguientes son herramientas que necesita para configurar la aplicación.
 - Descargue e instale Node.JS (10.15.1) https://nodejs.org/en/download/releases/ Puede descargar Node.Js según su sistema operativo.
 - Instale la última versión de Visual Studio Code e instálela. https://code.visualstudio.com/download
 - Ejecutar los siguientes NPM
+
+  - `npm i`
   - `npm install -g ionic@5.3.0`
   - `npm instalar @ionic/angular@4.9.0`
   - `npm install -g ionic cordova@9.0.0`
